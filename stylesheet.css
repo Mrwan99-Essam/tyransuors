@@ -1,0 +1,22 @@
+#Basics{
+  border: 2px solid BLack ;
+  display:grid;
+  justify-content: center;
+  margin: auto;
+  grid-gap:15px;
+  background-color: Blue;
+  grid-template-rows: 100px 600px 100px;
+  width:100%;
+}
+.Header{
+  background: white;
+  border: 1px solid Red;
+
+}
+.General{
+  background: white;
+  border: 1px solid Red;
+}
+.Foater{
+  border: 1px solid Red;
+}
